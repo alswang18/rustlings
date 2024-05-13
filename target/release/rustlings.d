@@ -1,1 +1,0 @@
-/Users/alecwang/code/rustlings/target/release/rustlings: /Users/alecwang/code/rustlings/src/exercise.rs /Users/alecwang/code/rustlings/src/main.rs /Users/alecwang/code/rustlings/src/project.rs /Users/alecwang/code/rustlings/src/run.rs /Users/alecwang/code/rustlings/src/ui.rs /Users/alecwang/code/rustlings/src/verify.rs
